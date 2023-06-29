@@ -5,3 +5,5 @@ When attempting to crack a password, a timing attack can be carried out by analy
 
 
 The provided code implements a basic password attack simulation in Python. It demonstrates the process of cracking a password by attempting different variations until the correct password is found. The code is designed for **educational purposes** only and should not be used for any malicious intent.
+
+![string-comparison](https://github.com/senadmustafi/Timing_attack/assets/44483687/351e74b6-54ec-4027-a2c0-5f3d4d7b7856)
